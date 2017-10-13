@@ -1,0 +1,20 @@
+{
+    "content": [
+        "belt-throughput",
+        "material-processing",
+        "mining",
+        "science",
+        "basic-power",
+        "nuclear-power",
+        "oil-refining",
+        "fluid-wagon-transfer",
+        "cargo-wagon-transfer",
+        "inserter-throughput",
+        "common-ratios",
+        "modules-and-beacons",
+        "productivity-module-payoffs",
+        "train-speed",
+        "tips",
+        "links"
+    ]
+}
